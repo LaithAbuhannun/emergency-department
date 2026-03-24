@@ -3,13 +3,14 @@
 ## Project Structure
 
 ```
-README.md
 src/
     __init__.py
     pre_processing.py
 datasets/
 extra-resources/
 notebooks/
+README.md
+requirements.txt
 ```
 
 ## Description
